@@ -2,7 +2,7 @@
 
 `GP2 ❤️ Open Science 😍`
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/nnnnn/zenodo.nnnnn.svg)](https://doi.org/nnnnn/zenodo.nnnnn)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24325351.svg)](https://doi.org/10.5281/zenodo.24325351)
 
 **Last updated:** November 2026
 
@@ -16,18 +16,7 @@ Data used in the preparation of this article were obtained from the Global Parki
 
 All GP2 data are hosted in collaboration with the Accelerating Medicines Partnership in Parkinson’s disease, and are available via application on the website ([https\://amp-pd.org/register-for-amp-pd](https://amp-pd.org/register-for-amp-pd)). For up-to-date information on GP2 data acquisition, access, and policies, visit [https\://gp2.org/](https://gp2.org/). Tier 1 data can be accessed by completing a form on the Accelerating Medicines Partnership in Parkinson’s Disease (AMP®-PD) website ([https\://amp-pd.org/register-for-amp-pd](https://amp-pd.org/register-for-amp-pd)). Tier 2 data access requires approval and a Data Use Agreement signed by your institution.
 
-In this analysis we used Tier 2 GP2 Release 11 and Release 12 data.
-
-> Choose Release from here:
-
-> - [ ] GP2 Release 5 ([10.5281/zenodo.7904832](https://doi.org/10.5281/zenodo.7904832));  
-> - [ ] GP2 Release 6 ([10.5281/zenodo.10472143](https://doi.org/10.5281/zenodo.10472143))  
-> - [ ] GP2 Release 7 ([10.5281/zenodo.10962119](https://doi.org/10.5281/zenodo.10962119))  
-> - [ ] GP2 Release 8 ([10.5281/zenodo.13755496](https://doi.org/10.5281/zenodo.13755496))  
-> - [ ] GP2 Release 9 ([10.5281/zenodo.14510099](https://doi.org/10.5281/zenodo.14510099))  
-> - [ ] GP2 Release 10 ([10.5281/zenodo.15748014](https://doi.org/10.5281/zenodo.15748014))  
-> - [x] GP2 Release 11 ([10.5281/zenodo.17753486](https://doi.org/10.5281/zenodo.17753486))  
-> - [x] GP2 Release 12 ([10.5281/zenodo.20932193](https://doi.org/10.5281/zenodo.20932193))
+In this analysis we used Tier 2 GP2 Release 11 ([10.5281/zenodo.17753486](https://doi.org/10.5281/zenodo.17753486)) and Release 12 data ([10.5281/zenodo.20932193](https://doi.org/10.5281/zenodo.20932193)).
 
 ### Helpful Links
 
@@ -35,20 +24,6 @@ In this analysis we used Tier 2 GP2 Release 11 and Release 12 data.
   - [GP2 Cohort Dashboard](https://gp2.org/cohort-dashboard-advanced/)  
 - [Introduction to GP2](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28494)  
   - [Other GP2 Manuscripts (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%22global+parkinson%27s+genetics+program%22)
-
-## Citation
-
-*(pending publication)*
-
-> (Citation)
-
-## Tables
-
-*(pending publication)*
-
-## Figures
-
-*(pending publication)*
 
 ## Repository Orientation
 
